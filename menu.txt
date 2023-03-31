@@ -4,3 +4,11 @@ Bevande:
 Acqua
 Coca cola
 vino
+
+primi piatti: 
+
+1. spaghetti alle vongole 
+
+2. carbonara di mare 
+
+3. passatelli allo scoglio 
